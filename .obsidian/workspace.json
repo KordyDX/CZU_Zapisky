@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c21d7fdf0cd33b99",
+        "id": "22d70a0b2adc7565",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0d39c557754fa7",
+            "id": "041c50dd93810b19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Psychologie/4. přednáška.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4. přednáška"
             }
           }
         ]
@@ -188,8 +192,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6f0d39c557754fa7",
+  "active": "041c50dd93810b19",
   "lastOpenFiles": [
+    "IMG20250305124835.jpg",
+    "IMG20250305124555.jpg",
+    "IMG20250305123857~2.jpg",
+    "IMG20250305123857.jpg",
+    "IMG20250305123649.jpg",
+    "IMG20250305123340.jpg",
+    "IMG20250305122224.jpg",
+    "IMG20250305122153.jpg",
+    "Psychologie/2. Přednáška.md",
+    "Psychologie/4. přednáška.md",
     "Teorie řízení org. systémů/3.10..md",
     "Teorie řízení org. systémů/14.11..md",
     "Teorie řízení org. systémů/17.10..md",
@@ -197,23 +211,15 @@
     "Architektura počítačů/1..md",
     "Matematika/10.10..md",
     "Právní nauka/1.11..md",
-    "Psychologie/2. Přednáška.md",
     "Untitled.md",
     "IMG20250226132532.jpg",
     "IMG20250226132110.jpg",
     "IMG20250226131357.jpg",
-    "IMG20250226125756.jpg",
-    "IMG20250226125616.jpg",
-    "IMG20250226124000.jpg",
-    "IMG_20250226_123715.jpg",
     "_.pending-1741174377-IMG20250226123257 2.heic",
-    "IMG20250226123353.jpg",
     "_.pending-1741174377-IMG20250226123257[1].heic",
     "_.pending-1741174377-IMG20250226123257 1.heic",
     "_.pending-1741174377-IMG20250226123257.heic",
-    "IMG20250226122310.jpg",
     "Psychologie",
-    "Pasted image 20250217114851.png",
     "Právní nauka/15.11..md",
     "Architektura počítačů",
     "Právní nauka/3.10..md",
