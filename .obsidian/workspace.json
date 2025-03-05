@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "caa773086583db62",
+        "id": "c21d7fdf0cd33b99",
         "type": "tabs",
         "children": [
           {
-            "id": "c623469759f70440",
+            "id": "6f0d39c557754fa7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychologie/2. Přednáška.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Přednáška"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,6 +155,16 @@
               "icon": "lucide-list",
               "title": "Outline of 2. Přednáška"
             }
+          },
+          {
+            "id": "dbbafbfdec7f423b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 1
@@ -179,12 +188,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab60ade6b3dbce8f",
+  "active": "6f0d39c557754fa7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Psychologie/2. Přednáška.md",
-    "IMG20250226132532.jpg",
+    "Teorie řízení org. systémů/3.10..md",
+    "Teorie řízení org. systémů/14.11..md",
+    "Teorie řízení org. systémů/17.10..md",
+    "Algoritmizace/11.10..md",
     "Architektura počítačů/1..md",
+    "Matematika/10.10..md",
+    "Právní nauka/1.11..md",
+    "Psychologie/2. Přednáška.md",
+    "Untitled.md",
+    "IMG20250226132532.jpg",
     "IMG20250226132110.jpg",
     "IMG20250226131357.jpg",
     "IMG20250226125756.jpg",
@@ -201,17 +216,11 @@
     "Pasted image 20250217114851.png",
     "Právní nauka/15.11..md",
     "Architektura počítačů",
-    "Právní nauka/1.11..md",
     "Právní nauka/3.10..md",
     "Právní nauka/7.11..md",
     "Právní nauka/14.11..md",
     "Právní nauka/17.10..md",
-    "Teorie řízení org. systémů/14.11..md",
-    "Teorie řízení org. systémů/17.10..md",
-    "Algoritmizace/11.10..md",
     "Algoritmizace",
-    "Teorie řízení org. systémů/3.10..md",
-    "Matematika/10.10..md",
     "Právní nauka",
     "Welcome.md",
     "Teorie řízení org. systémů",
