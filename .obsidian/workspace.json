@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie/4. přednáška.md",
+                "file": "Psychologie/2. Přednáška.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. přednáška"
+              "title": "2. Přednáška"
+            }
+          },
+          {
+            "id": "8d984bed3a13ffb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +205,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "041c50dd93810b19",
+  "active": "8d984bed3a13ffb0",
   "lastOpenFiles": [
+    "Psychologie/2. Přednáška.md",
+    "Psychologie/4. přednáška.md",
     "IMG20250305134449.jpg",
     "IMG20250305134406.jpg",
     "IMG20250305133515.jpg",
@@ -204,9 +219,6 @@
     "IMG20250305130726.jpg",
     "IMG20250305130653.jpg",
     "IMG20250305125342.jpg",
-    "IMG20250305125250.jpg",
-    "Psychologie/2. Přednáška.md",
-    "Psychologie/4. přednáška.md",
     "Teorie řízení org. systémů/3.10..md",
     "Teorie řízení org. systémů/14.11..md",
     "Teorie řízení org. systémů/17.10..md",
